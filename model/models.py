@@ -2,7 +2,7 @@ import random
 from transformers import pipeline
 
 
-
+# Dummy model for conducting initial test
 class DummyModel:
     def __init__(self, topics):
         self.topics = topics
