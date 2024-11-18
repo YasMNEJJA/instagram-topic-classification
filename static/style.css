@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+    text-align: center;
+}
+
+textarea {
+    width: 60%;
+    font-size: 1rem;
+    padding: 0.5rem;
+}
+
+button {
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005A9E;
+}
+
+h1 {
+    color: #0078D7;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    text-align: left;
+    display: inline-block;
+    margin: 0.5rem 0;
+}
